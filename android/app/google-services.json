@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "669896017866",
+    "firebase_url": "https://flutterfirebase-200f7-default-rtdb.firebaseio.com",
+    "project_id": "flutterfirebase-200f7",
+    "storage_bucket": "flutterfirebase-200f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669896017866:android:e5e75a378dfe69d37ef133",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPz_NCAa7WaAfp7Hr1Ua8g8qyDE8xBWE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669896017866:android:a704b2fc2b524c227ef133",
+        "android_client_info": {
+          "package_name": "com.example.bancoteste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPz_NCAa7WaAfp7Hr1Ua8g8qyDE8xBWE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669896017866:android:65d9b8051f3a33097ef133",
+        "android_client_info": {
+          "package_name": "com.example.testebanco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPz_NCAa7WaAfp7Hr1Ua8g8qyDE8xBWE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669896017866:android:08ee44d888bdc2097ef133",
+        "android_client_info": {
+          "package_name": "com.teste.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPz_NCAa7WaAfp7Hr1Ua8g8qyDE8xBWE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
